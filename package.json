@@ -19,6 +19,10 @@
     "xml2js": "~0.1.14",
     "request": "~2.74.0",
     "async": "~0.1.22",
-    "ip": "~0.0.1"
+    "ip": "~0.0.1",
+    "react-native-udp": "^1.2.5"
+  },
+  "react-native" : {
+    "dgram" : "react-native-udp"
   }
 }
